@@ -1,7 +1,11 @@
 //file:///Users/anhdao/Desktop/evondev/particles%20canvas/index.html
 const canvas = document.querySelector("canvas");
 
+const audio = document.querySelector("audio");
+
 const ctx = canvas.getContext("2d");
+
+
 
 canvas.width = window.innerWidth;
 

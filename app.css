@@ -4,9 +4,18 @@
     box-sizing: border-box;
 }
 html{
-    background-color: black;
+     /* background-color: black; */
 }
 body{
     overflow: hidden;
     color:#db2796;
 }
+
+.audio{
+    width: 60px;
+    height: 60px;
+}
+/* .canvas{
+    margin-top: 100;
+    top: 100px;
+} */
